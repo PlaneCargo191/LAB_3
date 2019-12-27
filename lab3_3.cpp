@@ -3,8 +3,8 @@ using namespace std;
 
 int main()
 {
-    float x=2, y=0;
-    while(x<=69)
+    float x=6, y=0;
+    while(x<=19)
     {
         y=y+1/x;
         x=x+1;
